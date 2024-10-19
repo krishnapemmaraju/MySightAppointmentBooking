@@ -1,0 +1,13 @@
+{
+    "CustomerInfo": [
+       {
+          "emailAddress": "deepthi.perikala",
+          "title":"Mr",
+          "firstName":"TestFirstName",
+          "lastName":"TestLastName",
+          "dob":"12/03/1987",
+          "postCode":"HG4 1SL",
+          "phoneNumber": "0785466214"
+       }
+    ]
+ }
